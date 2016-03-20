@@ -1,0 +1,26 @@
+{
+  "name": "visualize-gulp",
+  "version": "1.0.0",
+  "description": "https://github.com/gulpjs/gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/visualize-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/visualize-gulp/issues"
+  },
+  "homepage": "https://github.com/i5ting/visualize-gulp#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "chalk": "^1.1.1",
+    "esprima": "^2.7.0",
+    "lodash": "^3.10.1",
+    "through2": "^2.0.0"
+  }
+}
